@@ -1,16 +1,26 @@
 {
   "name": "haydenslogomaker",
   "version": "1.0.0",
-  "description": "## Your Task",
+  "description": "",
   "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "MIT",
-  "devDependencies": {
-    "jest": "^29.5.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaydenFelfe/HaydensLogoMaker.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaydenFelfe/HaydensLogoMaker/issues"
+  },
+  "homepage": "https://github.com/HaydenFelfe/HaydensLogoMaker#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   }

@@ -34,7 +34,7 @@ async function runLogoGenerator() {
         message: 'Enter the shape color (keyword or hexadecimal number):',
       },
     ]);
-const logoSvg = generateLogo(userInput.text, userInput.textolor, userInput.shape, userInput.shapeColor);
+const logoSvg = generateLogo(userInput.text, userInput.textColor, userInput.shape, userInput.shapeColor);
 
 fs.writeFile('logo.svg', logoSvg, function(err){
     if(err) throw err;
