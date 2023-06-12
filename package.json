@@ -1,7 +1,7 @@
 {
   "name": "haydenslogomaker",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is made to generate a simple logo if you are in need of one. By running node index.js you are able to select different aspects you want for your logo. You are able to enter up to three characters for your logo, change the text color to what you desire, choose from three different shapes, and make the shape any color you want.",
   "main": "index.js",
   "directories": {
     "lib": "lib",

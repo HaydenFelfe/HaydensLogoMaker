@@ -16,3 +16,6 @@ This project is licensed under the MIT License license.
 
 ## Installation
 In order to run this logo generater you will need to install inquirer 8.2.4.
+
+## Video Link
+https://drive.google.com/file/d/1J0hquMA_yIXxSFaL321TnjjyTx-_J9P2/view
